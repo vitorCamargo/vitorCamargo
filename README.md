@@ -1,14 +1,22 @@
-<img src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/background.svg" alt="banner that writes a code about the banner itself">
+<img width="50%" align="right" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/me.png" alt="banner that writes a code about the banner itself">
+
+<img width="250px" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/me-text.png" alt="banner that writes a code about the banner itself">
+
+<br />
+
 <!--
 Why so many code if life is not programmed and there is no logic in the best things.
 But, besides that, don't copy this READ.me, I made it!
 --->
-I'm a computer science last year undergraduate from <a href="http://www.utfpr.edu.br/">UTFPR</a> who is absolutely passionate for front-end development, loving creating solutions for user's demand, elevating a software as much as possible. I can create a system for complete (as full-stack), but I have a majority understanding in front-end technologies and frameworks, such as, ReacJS, VueJS, pure HTML/JS/CSS interfaces and PHP. But lately, I've been working on Devops stuffs and loving it 🥰.
+<p>
+  I'm a computer science last year undergraduate from <a href="http://www.utfpr.edu.br/">UTFPR</a> who is absolutely passionate for front-end development, loving creating solutions for user's demand, elevating a software as much as possible. I can create a system for complete (as full-stack), but I have a majority understanding in front-end technologies and frameworks, such as, ReacJS, VueJS, pure HTML/JS/CSS interfaces and PHP. But lately, I've been working on Devops stuffs and loving it 🥰.
+ </p>
 
 <br />
 <br />
 
-**Languages and tools**                                                                                                                    
+**Languages and tools**
+
 <code><img height="25" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/cpp.png"></code>
