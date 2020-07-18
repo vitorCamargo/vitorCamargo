@@ -28,7 +28,7 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/less.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/mysql.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/eslint.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/docker.png"></code>
