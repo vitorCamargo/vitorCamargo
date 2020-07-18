@@ -10,7 +10,7 @@ I'm still a computer science student who is absolutely passionate for front-end 
 - Me on [Sourcerer](https://sourcerer.io/vitorcamargo) (cause I love the site) 💥🔥
 - I litte but more on [instagram](https://www.instagram.com/_vitorcamargo_/) 📸
 - Me, but more serious on [Linkedin](https://www.linkedin.com/in/vitor-camargo/) 💼
-- The [website](http://vitorcamargo.me) that I've been trying to update but never do 😔
+- The [website](http://vitorcamargo.me) that I've been trying to update ~~but never do 😔~~ but will do 😁
 
 저를 방문해 주셔서 감사합니다.
 
