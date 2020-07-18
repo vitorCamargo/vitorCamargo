@@ -37,7 +37,8 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 <br />
 <a href="https://sourcerer.io/vitorcamargo"><img src="https://img.shields.io/badge/JavaScript-217%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/vitorcamargo"><img src="https://img.shields.io/badge/HTML-129%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/vitorcamargo"><img src="https://img.shields.io/badge/CSS-113%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/vitorcamargo"><img src="https://img.shields.io/badge/CSS-113%20commits-green.svg" alt=""></a>
+<a href="https://github.com/vitorCamargo/vitorCamargo"><img src="https://visitor-badge.laobi.icu/badge?page_id=vitorCamargo.vitorCamargo" alt="" /></a>
 
 <details>
   <summary>
