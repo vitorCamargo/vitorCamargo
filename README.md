@@ -35,9 +35,18 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/babel.png"></code>
 
-<br/>
+<object data-v-6cc17e78="" data="/assets/avatar/vitocamargo" type="image/svg+xml"></object>
+<!---
+<details>
+  <summary><b>📈 Some stats</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorCamargo&show_icons=true&hide_border=true" alt="Github Stats />
+</details>
+--->
+<br />
 
 ## Find me around the web 🌎:
+[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/0)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/0)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/1)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/1)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/2)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/2)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/3)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/3)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/4)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/4)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/5)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/5)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/6)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/6)[![](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/images/7)](https://sourcerer.io/fame/vitorCamargo/utfpr/reservaEquipamentosLab/links/7)
+
 - Me on [Sourcerer](https://sourcerer.io/vitorcamargo) (cause I love the site) 💥🔥
 - I litte but more on [instagram](https://www.instagram.com/_vitorcamargo_/) 📸
 - Me, but more serious on [Linkedin](https://www.linkedin.com/in/vitor-camargo/) 💼
