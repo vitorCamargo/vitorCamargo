@@ -2,8 +2,6 @@
 
 <img width="250px" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/me-text.png" alt="banner that writes a code about the banner itself">
 
-<br />
-
 <!--
 Why so many code if life is not programmed and there is no logic in the best things.
 But, besides that, don't copy this READ.me, I made it!
