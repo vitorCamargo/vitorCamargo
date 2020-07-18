@@ -8,8 +8,7 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 <br />
 <br />
 
-**Languages and tools**
-
+**Languages and tools**                                                                                                                    
 <code><img height="25" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/cpp.png"></code>
@@ -40,6 +39,14 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 <a href="https://sourcerer.io/vitorcamargo"><img src="https://img.shields.io/badge/HTML-129%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/vitorcamargo"><img src="https://img.shields.io/badge/CSS-113%20commits-blue.svg" alt=""></a>
 
+<details>
+  <summary>
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="23px">
+    <b>Github stats</b>
+  </summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorCamargo&show_icons=true&hide_border=true" alt="Github Stats" />
+</details>
+
 ## Find me around the web 🌎:
 - Me on [Sourcerer](https://sourcerer.io/vitorcamargo) (cause I love the site) 💥🔥
 - I litte but more on [instagram](https://www.instagram.com/_vitorcamargo_/) 📸
@@ -49,8 +56,3 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 저를 방문해 주셔서 감사합니다.
 
 пока-пока :)
-
-<details>
-  <summary><b>📈 Github stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorCamargo&show_icons=true&hide_border=true" alt="Github Stats />
-</details>
