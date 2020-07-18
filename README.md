@@ -7,6 +7,7 @@ But, besides that, don't copy this READ.me, I made it!
 I'm a computer science last year undergraduate from [UTFPR](http://www.utfpr.edu.br/) who is absolutely passionate for front-end development, loving creating solutions for user's demand, elevating a software as much as possible. I can create a system for complete (as full-stack), but I have a majority understanding in front-end technologies and frameworks, such as, ReacJS, VueJS, pure HTML/JS/CSS interfaces and PHP. But lately, I've been working on Devops stuffs and loving it 🥰.
 
 <br />
+<br />
 
 **Languages and tools**
 
@@ -18,8 +19,6 @@ I'm a computer science last year undergraduate from [UTFPR](http://www.utfpr.edu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Vitor stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=vitorCamargo&show_icons=true&title_color=1890ff&icon_color=2f54eb&text_color=333&bg_color=fff)
 
 <br/>
 
