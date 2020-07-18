@@ -10,14 +10,30 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 
 **Languages and tools**
 
-<code><img height="25" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/love.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/modelica.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/ionic.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/less.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/eslint.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/languages/babel.png"></code>
 
 <br/>
 
