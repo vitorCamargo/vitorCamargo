@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/background.svg" alt="banner that writes a code about the banner itself">
+<img src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/background.svg" alt="banner that writes a code about the banner itself">
 <!--
 Why so many code if life is not programmed and there is no logic in the best things.
 But, besides that, don't copy this READ.me, I made it!
@@ -10,30 +10,30 @@ I'm a computer science last year undergraduate from <a href="http://www.utfpr.ed
 
 **Languages and tools**
 
-<code><img height="25" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/love.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/modelica.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/ionic.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/less.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/eslint.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/languages/babel.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/love.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/modelica.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/ionic.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/less.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/eslint.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/master/assets/images/languages/babel.png"></code>
 
 <br/>
 
