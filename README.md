@@ -1,4 +1,3 @@
-### Hi, I'm Vitor Camargo 😄
 <img src="https://raw.githubusercontent.com/vitorCamargo/vitorCamargo/76022237cfed1af56e4c7b4047d1035c89716e47/background.svg" alt="banner that writes a code about the banner itself">
 <!--
 Why so many code if life is not programmed and there is no logic in the best things.
