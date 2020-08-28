@@ -52,6 +52,7 @@ But, besides that, don't copy this READ.me, I made it!
     <b>Github stats</b>
   </summary>
   <img src="https://github-readme-stats.vercel.app/api?username=vitorCamargo&show_icons=true&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcamargo&layout=compact&hide=html" alt="Github Languages" />
 </details>
 
 ## Find me around the web 🌎:
