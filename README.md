@@ -7,7 +7,7 @@ Why so many code if life is not programmed and there is no logic in the best thi
 But, besides that, don't copy this READ.me, I made it!
 --->
 <p>
-  I'm a senior year computer science undergraduate from <a href="http://www.utfpr.edu.br/">UTFPR</a> who is absolutely passionate for front-end development, loving creating solutions for user's demand, elevating a software as much as possible. I can create a system for complete (as full-stack), but I have a majority understanding in front-end technologies and frameworks, such as, ReacJS, VueJS, pure HTML/JS/CSS interfaces and PHP. But lately, I've been working on Devops stuffs and loving it 🥰.
+  I'm a senior year computer science undergraduate from <a href="http://www.utfpr.edu.br/">UTFPR</a> who is absolutely passionate for front-end development, loving creating solutions for user's demand, elevating a software as much as possible. I can create a system for complete (as full-stack), but I have a majority understanding in front-end technologies and frameworks, such as, ReactJS, VueJS, pure HTML/JS/CSS interfaces and PHP. But lately, I've been working on Devops stuffs and loving it 🥰.
  </p>
 
 <br />
